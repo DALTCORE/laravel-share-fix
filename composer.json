@@ -1,0 +1,18 @@
+{
+  "name": "daltcore/laravel-share-fix",
+  "description": "Get back the share method in Laravel 5.4",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ramon Smit",
+      "email": "ramon@daltcore.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "DALTCORE\\ShareFix\\": "src/"
+    }
+  },
+  "minimum-stability": "stable"
+}
